@@ -1,0 +1,62 @@
+body {
+    margin: 0;
+    text-align: center;
+    background: #111827;
+}
+
+#hero {
+    background: #6943FF;
+    width: 550px;
+    height: 250px;
+    margin: 25px auto 0px;
+    padding: 10px;
+    color: white;
+}
+
+input{
+    width: 100px;
+    height: 80px;
+    display: block;
+    margin: 5px auto;
+    padding: 5px;
+    background-color: #6943FF;
+    border: 2px solid #B295FF;
+    border-radius: 5px;
+    min-width: 130px;
+    text-align: center;
+    color: white;
+    font-size: 70px;
+}
+
+button {
+    width: 100px;
+    margin: 20px;
+    color: #3D3D3D;
+    background: #FFFFFF;
+    border: 1px solid white;
+    border-radius: 5px;
+    padding: 6px;
+    
+}
+
+#units {
+    background: #1F2937;
+    padding: 10px;
+    margin: 0px auto 5px;
+    width: 550px;
+    box-shadow: 0px 2px 10px black;
+    
+}
+.conversions{
+    width: 500px;
+    background: #273549;
+    margin: 20px auto;
+    padding: 0.5px 0px;
+    color: whitesmoke;
+    border: none;
+   
+}
+
+h4{
+    color: #CCC1FF;
+}
