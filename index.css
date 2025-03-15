@@ -2,6 +2,7 @@ body {
     margin: 0;
     text-align: center;
     background: #111827;
+    font-family: Inter, sans-serif;
 }
 
 #hero {
